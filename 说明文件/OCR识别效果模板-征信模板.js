@@ -10,7 +10,8 @@
 				'header-name':'报告基本信息',
 				'content':[table],  // table为二维数组; 
 									// 若table第一行只有一个元素, 提取该元素为table名称, 作为子header
-									// 一个header的content里最多有一个table
+									// 一个header的content里最多有一个table (尽量)
+
 			},
 			'header-0-1':{
 				'header-name':'其他证件信息',
